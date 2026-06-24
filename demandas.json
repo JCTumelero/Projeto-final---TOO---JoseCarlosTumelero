@@ -1,0 +1,13 @@
+[
+    {
+        "id": "9b6bd560-9669-43f6-b742-a14e9d114ce3",
+        "descricao": "enviar caixas",
+        "origem": "seção",
+        "prioridade": "alta",
+        "responsavel": "jose",
+        "setor": "almoxarifado ",
+        "data_criacao": "2026-06-24T13:59:49.427988",
+        "prazo": null,
+        "status": "aberta"
+    }
+]
