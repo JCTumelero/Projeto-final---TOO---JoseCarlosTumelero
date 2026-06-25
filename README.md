@@ -58,4 +58,12 @@ Facilitar o controle de demandas administrativas ou operacionais, substituindo m
   python main.py
 
 Autor: José Carlos Tumelero
+
+Diagrama:
+
+
+
+<img width="646" height="490" alt="Desenho 1" src="https://github.com/user-attachments/assets/ec68e5e1-17c2-46c3-a60f-9c04c7e11ba8" />
+
+
    
